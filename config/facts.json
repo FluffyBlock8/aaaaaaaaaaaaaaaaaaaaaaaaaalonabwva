@@ -108,5 +108,99 @@
                 {"type": 1, "anim": "earth_back"},
                 {"type": 1, "anim": "grin_fwd"},
                 {"type": 1, "anim": "grin_back"}
+        ],
+                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that Touhou Project was created almost entirely by one man named ZUN?"},
+                {"type": 0, "text": "He also loves beer more than code!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Fun Fact: The first Touhou game was released on the PC-98, not Windows!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Touhou Fact: Reimu Hakurei is the only character to appear in every single Windows-era main game!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that Cirno's 'â‘¨' symbol comes from the instruction manual of Phantasmagoria of Flower View?"},
+                {"type": 0, "text": "It labeled her as 'Baka' (idiot) in the ninth spot of the character key!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know? The Hakurei Shrine is located on the boundary between the human world and Gensokyo."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Touhou Lore: Flandre Scarlet hasn't left the basement of the Scarlet Devil Mansion in over 495 years!"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Fun Fact: The term 'Danmaku' literally translates to 'barrage' or 'bullet curtain'."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that bananas are technically berries, but strawberries aren't?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that octopuses have three hearts? Still can't find love though."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Fun Fact: The first computer bug was an actual moth found in a relay in 1947."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that 100% of people who drink water eventually die?"},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                                [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "In 1999, I was the most popular purple gorilla in the world. Now look at me. I'm a javascript object."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
+        ],
+                                        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "A group of flamingos is called a 'flamboyance'."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+                {"type": 1, "anim": "grin_back"}
         ]
+        
 ]
