@@ -172,7 +172,76 @@
 			{"type": 1, "anim": "shrug_back"},
 			{"type": 0, "text": "Sorry. I just had an epiphany of my own sad, sad existence."},
 			{"type": 1, "anim": "shrug_back"}
-		]
+		],
+    [
+      {"type": 0, "text": : "Why is Reimu always poor?" },
+      {"type": 0, "text": : "Because every time she gets a coin, she spends it on more red-white needles!" }
+    ],
+    [
+      {"type": 0, "text": : "How does Marisa Kirisame study for a test?" },
+      {"type": 0, "text": : "She just 'borrows' the answers until she's done with them, ze!" }
+    ],
+    [
+      {"type": 0, "text": : "What do you call a Flandre Scarlet who lost her wings?" },
+      {"type": 0, "text": : "A grounded vampire!" }
+    ],
+    [
+      {"type": 0, "text": : "Why did Sakuya cross the road?" },
+      {"type": 0, "text": : "She didn't. She just stopped time and the road crossed her." }
+    ],
+    [
+      {"type": 0, "text":  "What's the difference between Cirno and a calculator?" },
+      {"type": 0, "text":  "A calculator can actually count to 9!" }
+    ],
+    [
+      {"type": 0, "text":  "Why did the Shrine Maiden go to the bakery?" },
+      {"type": 0, "text":  "She heard they had a 'Roll' for every donation!" }
+    ],
+    [
+      {"type": 0, "text":  "Why did Reimu go to the store with a vacuum?" },
+      {"type": 0, "text":  "She heard they were selling 'donations' at a swept-up price!" }
+    ],
+    [
+      {"type": 0, "text":  "How many shrine maidens does it take to change a lightbulb?" },
+      {"type": 0, "text":  "Two. One to hold the bulb, and one to ask for donations to pay the electric bill." }
+    ],
+    [
+      {"type": 0, "text":  "Why doesn't Patchouli ever leave the library?" },
+      {"type": 0, "text":  "Because she can't find the 'Exit' section in her books!" }
+    ],
+		    [
+      {"type": 0, "text":  "Why do we call my Websim?" },
+      {"type": 0, "text":  "Because we KNEAD it. Haha please send The Link at https://websim.com/@FluffyBlock/2-5d-game-starter-kit-23 For More Updates!" }
+    ],
+    [
+      {"type": 0, "text":  "What is a Phantom Chica is a watermelon?" },
+      {"type": 0, "text":  "Stop calling me a watermelon." },
+      {"type": 0, "text":  "I'm a comedic genius, I know." }
+    ],
+	 [
+      {"type": 0, "text":  "Why did the programmer quit his job?" },
+      {"type": 0, "text":  "Because he didn't get arrays." }
+    ],
+    [
+      {"type": 0, "text":  "What do you call a belt made of watches?" },
+      {"type": 0, "text":  "A waist of time." }
+    ],
+    [
+      {"type": 0, "text":  "I'm reading a book on anti-gravity." },
+      {"type": 0, "text":  "It's impossible to put down!" }
+    ],
+    [
+      {"type": 0, "text":  "Parallel lines have so much in common." },
+      {"type": 0, "text":  "It's a shame they'll never meet." }
+    ],
+    [
+      {"type": 0, "text":  "What's the difference between a snowman and a snowwoman?" },
+      {"type": 0, "text":  "Snowballs." }
+    ],
+    [
+      {"type": 0, "text":  "I'm on a whiskey diet." },
+      { "type": 0, "text":  "I've lost three days already." }
+    ]
 	],
 	"end": [
 		[{"type": 0, "text": "You know {NAME}, a good friend laughs at your jokes even when they're not so good."}],
@@ -195,6 +264,10 @@
 			{"type": 0, "text": "Laughter is the best medicine!"},
 			{"type": 0, "text": "Apart from meth."}
 		],
+		    [
+      {"type": 0, "text":  "Laughter is the best! You Say?" },
+      {"type": 0, "text":  "Apart from Gensokyo tea." }
+    ],
 		[
 			{"type": 0, "text": "Don't judge me on my sense of humor alone."},
 			{"type": 0, "text": "Help! I'm being oppressed!"}
@@ -206,6 +279,10 @@
 		[{"type": 0, "text": "You should tell these jokes to your father!"}],
 		[{"type": 0, "text": "I hope you're offended."}],
 		[{"type": 0, "text": "Now, Thats all for the joke! now laugh!"}],
-		[{"type": 0, "text": "Maybe I'll keep my day job, {NAME}. Patreon didn't accept me."}]
-	]
+		[{"type": 0, "text": "Maybe I'll keep my day job, {NAME}. Patreon didn't accept me."}],
+        [
+			{"type": 0, "text": "Don't judge me on my sense of typo alone." },
+            {"type": 0, "text": "Help! I'm being oppressed by a shrine maiden!" }
+		]	
+    ],
 }
