@@ -174,20 +174,20 @@
 			{"type": 1, "anim": "shrug_back"}
 		],
     [
-      {"type": 0, "text": : "Why is Reimu always poor?" },
-      {"type": 0, "text": : "Because every time she gets a coin, she spends it on more red-white needles!" }
+      {"type": 0, "text":  "Why is Reimu always poor?" },
+      {"type": 0, "text":  "Because every time she gets a coin, she spends it on more red-white needles!" }
     ],
     [
-      {"type": 0, "text": : "How does Marisa Kirisame study for a test?" },
+      {"type": 0, "text":  "How does Marisa Kirisame study for a test?" },
       {"type": 0, "text": : "She just 'borrows' the answers until she's done with them, ze!" }
     ],
     [
-      {"type": 0, "text": : "What do you call a Flandre Scarlet who lost her wings?" },
-      {"type": 0, "text": : "A grounded vampire!" }
+      {"type": 0, "text":  "What do you call a Flandre Scarlet who lost her wings?" },
+      {"type": 0, "text":  "A grounded vampire!" }
     ],
     [
-      {"type": 0, "text": : "Why did Sakuya cross the road?" },
-      {"type": 0, "text": : "She didn't. She just stopped time and the road crossed her." }
+      {"type": 0, "text": "Why did Sakuya cross the road?" },
+      {"type": 0, "text":  "She didn't. She just stopped time and the road crossed her." }
     ],
     [
       {"type": 0, "text":  "What's the difference between Cirno and a calculator?" },
