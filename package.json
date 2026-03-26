@@ -1,17 +1,4 @@
-{
-    "name": "BonziWORLD Aero",
-  "version": "1.0 (Beta Release)",
-  "description": "Server for the BonziWORLD chat client.",
-  "main": "index.js",
-  "author": "",
-  "private": true,
-  "scripts": {
-    "start": "node index.js"
-    },
-  "engines": {
-    "node": ">=15"
-  },
-    
+{    
   "dependencies": {
     "express": "^4.18.2",
     "https-proxy-agent": "^7.0.6",
