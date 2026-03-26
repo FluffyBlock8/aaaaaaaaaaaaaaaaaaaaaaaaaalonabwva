@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "",
   "private": true,
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "start": "node index.js"
     },
