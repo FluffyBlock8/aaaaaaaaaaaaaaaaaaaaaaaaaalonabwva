@@ -1,9 +1,9 @@
 {
     "name": "BonziWORLD Aero",
-  "version": "2.0.2",
+  "version": "1.0 (Beta Release)",
   "description": "Server for the BonziWORLD chat client.",
   "main": "index.js",
-  "author": "Joseph Judge",
+  "author": "",
   "private": true,
   "license": "MIT",
   "scripts": {
