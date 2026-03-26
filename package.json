@@ -1,4 +1,14 @@
 {
+    "name": "BonziWORLD Aero",
+  "version": "2.0.2",
+  "description": "Server for the BonziWORLD chat client.",
+  "main": "index.js",
+  "author": "Joseph Judge",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "https-proxy-agent": "^7.0.6",
